@@ -1,0 +1,28 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.wrapper {
+	min-height: 100vh;
+	background: linear-gradient(to right bottom, #09203f, #537895);
+}
+
+.navbar {
+	text-align: center;
+	color: white;
+	padding: 10px 0px;
+}
+
+.input-fields {
+	background-color: white;
+	padding: 15px;
+	/* box-shadow: 15px 20px 26px black; */
+}
+
+.tasks {
+	background-color: white;
+	padding: 15px 0px;
+	/* box-shadow: 15px 20px 26px 5px black; */
+}
